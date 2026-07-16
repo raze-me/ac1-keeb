@@ -13,4 +13,6 @@ These are 5 pin pre lubed so i can switch them later as well
 I started finalizing my overall specs that i want in the keeb. So i started first with layout, 75% 81 keys with a oled on board and a knob, gasket brackets and hall effect linear switches, shud support both wired and wireless connectivity. i'll go for 45g+ hall effect switches now for the thocky and creamy sound. And i choose the hall effect to learn more on how these actually work in the background.
 As its a wide 75% 81 keys layout with and oled screen and knob so the layout will be wide enough to fit it all.
 
-Total Time Spent: 1.25 hrs
+13:30 (10 mins)
+Switched to GATERON Magnetic Jade Pro HE Switch Set Switches as is has more community support, better balance and comes factory lubed
+
