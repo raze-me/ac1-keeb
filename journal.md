@@ -16,3 +16,12 @@ As its a wide 75% 81 keys layout with and oled screen and knob so the layout wil
 13:30 (10 mins)
 Switched to GATERON Magnetic Jade Pro HE Switch Set Switches as is has more community support, better balance and comes factory lubed
 
+18:00 (1hr)
+Learned more about Hall Effect and finalized to try when I get a little more experience, for now I will finalize the build to be a purely mechanical keeb with gasket mounts only, 
+with this I changed my switches as well as they dont need to be magnetic anymore, changed to GATERON Oil King V2 5 min Pre lubed switches,
+Choose the ESP32 S3 for the main MCU microcontroller and finalized the key placements and number of rows/columns
+Picked SK6812MINI-E RGBs for the build (might get it soldered in the pcb from JLCPCB)
+Using Kailh Hot-swap PCB Socket Hot Plug CPG151101S11  as the Socket Plug
+
+
+Total Time: 2 hr 25 mins
