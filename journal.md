@@ -23,5 +23,15 @@ Choose the ESP32 S3 for the main MCU microcontroller and finalized the key place
 Picked SK6812MINI-E RGBs for the build (might get it soldered in the pcb from JLCPCB)
 Using Kailh Hot-swap PCB Socket Hot Plug CPG151101S11  as the Socket Plug
 
+17 July 2026
+18:00 (1.75hrs)
+Finalized encoder for the keeb, i will be placing the encoder directly on the pcb so i didnt get a module instead i went for EC11 rotating encoder.
+Next for a small visual feedback i ll be adding a small oled display of .91 inch 
+Then i was trying to use just the esp32 s3 wroom compute but that makes the keeb wired unless i add more components so i will go for a devkit instead as it will fullfill all the needs of wired plus wireless connection and later i can upgrade it was well if needed to a rpi in keyboard type device.
+I also found the perfect keycaps as well for the build to finally complete its picture in my mind. 
+PS: i ll add a AI gen image to show it as well
+Then for stabilizers i got a budget stabilizer(GOAT Glorious)  pack with lube.
+And for powering on wireless mode i got a 3.7v 5000mah battery with BQ24074 charging module as it takes much less space then others.
+I also built the first draft off all the components except pcb and casing.
 
 Total Time: 2 hr 25 mins
